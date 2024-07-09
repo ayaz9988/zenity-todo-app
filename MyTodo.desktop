@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=MyTodo
+Icon=$HOME/.icons/to-do-list.png
+Exec=todo.sh
+Comment=todo list
+Categories=Development;
+Terminal=false
